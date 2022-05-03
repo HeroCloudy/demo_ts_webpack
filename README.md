@@ -4,12 +4,12 @@
 
 # 使用技术栈
 
-Webpack 5
-Webpack Dev Server 4
-TypeScript
-Babel Loader
-TS Loader
-ESLint
+- Webpack 5
+- Webpack Dev Server 4
+- TypeScript
+- Babel Loader
+- TS Loader
+- ESLint
 
 # 本地运行
 
